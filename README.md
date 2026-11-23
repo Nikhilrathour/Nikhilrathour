@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Nikhil 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi there, I'm Nikhil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ### AI Automation Engineer · Founder @ Softvait · Building [Yoppy.in](https://yoppy.in)
 
